@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatorialRecursivo", "FatorialRecursivo\FatorialRecursivo.csproj", "{6C17744A-66CA-4AFF-8416-4C2EA97DA7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C17744A-66CA-4AFF-8416-4C2EA97DA7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C17744A-66CA-4AFF-8416-4C2EA97DA7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C17744A-66CA-4AFF-8416-4C2EA97DA7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C17744A-66CA-4AFF-8416-4C2EA97DA7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1EB2EE-C4ED-4B9F-B417-67FA3189A0B4}
+	EndGlobalSection
+EndGlobal
